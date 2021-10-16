@@ -1,4 +1,4 @@
-# Election_Analysis_Deliverable_3
+# Election Analysis: Deliverable 3
 
 ## Project Overview
 
@@ -35,7 +35,13 @@ The analysis of the election shows that:
 * The winner of the election was:
 	- Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
-* Link to image of Election results in VS code: ![PyPoll_Results](https://github.com/forrestcasey/Election_Analysis/blob/main/PyPoll_Results.png)
+
+
+* ![PyPoll_Results](https://github.com/forrestcasey/Election_Analysis/blob/main/PyPoll_Results.png)
+
+
+
+
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
@@ -46,5 +52,5 @@ The analysis of the election shows that:
 
 ## Resources
 
-Data Source: election_results.csv
+* Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio Code, 1.60.2
