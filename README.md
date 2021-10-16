@@ -1,5 +1,3 @@
-# Election_Analysis
-Using VS Code
 # Election_Analysis_Deliverable_3
 
 ## Project Overview
@@ -23,7 +21,7 @@ The analysis of the election shows that:
 - Denver county had 82.8% of the vote for a total of 306,055 votes
 - Arapahoe county had 6.7% of the vote for a total of 24,801 votes
 
-#### Of all three counties, Denver had the largest number of votes.
+* ### Of all three counties, Denver had the largest number of votes.
 
 * The candidates were:
 	- Charles Casper Stockham
@@ -39,14 +37,13 @@ The analysis of the election shows that:
 	- Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 
-
-[PyPoll_Results](https://github.com/forrestcasey/Election_Analysis/blob/main/PyPoll_Results.png)
+* [PyPoll_Results.png](https://github.com/forrestcasey/Election_Analysis/blob/main/PyPoll_Results.png)
 
 
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-The code can be used to count ballots and return the results to a text file for any election. 
+* The code can be used to count ballots and return the results to a text file for any election. 
 
 * The code can be run for state or county-wide instead of for each county.
 
