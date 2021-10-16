@@ -11,6 +11,9 @@ A Colorado Board of Elections employee gave the following tasks to complete the 
  4. The total number of votes each candidate won
  5. The winner of the election based on popular vote
 
+The purpose is to count, collect & summarize the data in the csv file into
+a logical and concise format in order to read the results of the election.
+
 ## Results
 
 The analysis of the election shows that:
@@ -33,7 +36,7 @@ The analysis of the election shows that:
 	- Candidate Raymon Anthony Doane received 3.1% of the vote and 11,606 votes
 
 * The winner of the election was:
-	- ##### Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+	- #### Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 
 
@@ -49,6 +52,7 @@ The analysis of the election shows that:
 
 * The code can be run for state or county-wide instead of for each county.
 
+* Adjusting variable names, row and column locations in the code, as well as file path locations, are simple enough modifications to suit the needs of the .csv file containing the data.
 
 ## Resources
 
