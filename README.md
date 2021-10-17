@@ -50,9 +50,9 @@ The analysis of the election shows that:
 
 * The code can be used to count ballots and return the results to a text file for any election if the votes and candidates were provided in the same format.
 
-* The code can be run for state-wide or country-wide instead of for each county.
+* The code can be run for state-wide or country-wide elections instead of for each county.
 
-* Adjusting variable names, row and column locations in the code, as well as file path locations, are simple enough modifications to suit the needs of the .csv file containing the data.
+* Adjusting variable names, row and column locations in the code, as well as file path locations, are simple enough modifications to suit the needs of the .csv file containing the data. 
 
 ## Resources
 
