@@ -46,7 +46,7 @@ The analysis of the election shows that:
 
 
 
-## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Election-Audit Summary:
 
 * The code can be used to count ballots and return the results to a text file for any election. 
 
